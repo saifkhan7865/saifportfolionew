@@ -527,7 +527,7 @@ body {
 
 #app {
     background: white;
-    height: 90vmin;
+    height: 100%;
     width: 50vmin;
     background: #EAEAEC;
     border-radius: 8vmin;
